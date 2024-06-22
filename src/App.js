@@ -1,7 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import { WebApp } from "@grammyjs/web-app";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  console.log(WebApp.initData);
+
   return (
     <div className="App">
       <header className="App-header">

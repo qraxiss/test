@@ -1312,6 +1312,13 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.57.0.tgz#a5417ae8427873f1dd08b70b3574b453e67b5f7f"
   integrity sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==
 
+"@grammyjs/web-app@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@grammyjs/web-app/-/web-app-1.3.0.tgz#1114ea96336b40590123adf62bfdee4febe35705"
+  integrity sha512-wQgKFNVcgBPiJLu6LoPM3OGy61JY16qo7v9X7/E4DImob0MFh/873GaZ/7yFHP7PpxCTBXEUwiJ6DlSuYbzyCA==
+  dependencies:
+    "@types/telegram-web-app" "^6.4.0"
+
 "@humanwhocodes/config-array@^0.11.14":
   version "0.11.14"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.14.tgz#d78e481a039f7566ecc9660b4ea7fe6b1fec442b"
@@ -2211,6 +2218,11 @@
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.3.tgz#6209321eb2c1712a7e7466422b8cb1fc0d9dd5d8"
   integrity sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw==
+
+"@types/telegram-web-app@^6.4.0":
+  version "6.9.4"
+  resolved "https://registry.yarnpkg.com/@types/telegram-web-app/-/telegram-web-app-6.9.4.tgz#885d00946177824b2f24ad3bbbceeeae43c70307"
+  integrity sha512-Zc1CKYw0D869oz6Z6nGEy+TptJT0In9pATcPgzp25wiUBc+E8UVwbpdO1+BD6mhHTZH+hCu0DLg6Qt6zWYYl0w==
 
 "@types/testing-library__jest-dom@^5.9.1":
   version "5.14.9"
